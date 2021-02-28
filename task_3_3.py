@@ -1,5 +1,6 @@
-stroke = input()
-if len(stroke) > 10:
-    print('!!!')
+init = input()
+if len(init) > 10:
+    init += '!'
+    print(init)
 else:
-    print(stroke[1])
+    print(init[2])

@@ -1,4 +1,4 @@
-enter = input("write a word: ")
+enter = input("enter a word: ")
 
 fsrt = len(enter)
 mid = fsrt / 2
