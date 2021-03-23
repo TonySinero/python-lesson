@@ -4,3 +4,4 @@ result = engine.execute("""SELECT * FROM users""")
 
 for row in result:
     print(row)
+    ------------
